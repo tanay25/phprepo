@@ -1,3 +1,3 @@
 <?php
-	echo "Hello from PHP Jenkins Pipeline";
+	echo "<h1>Hello from PHP Jenkins Pipeline</h1>";
 ?>
