@@ -1,0 +1,5 @@
+{
+	"required-dev":{
+		"phpunit/phpunit":"^10"
+	}
+}
